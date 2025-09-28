@@ -19,6 +19,6 @@
   "homepage": "https://github.com/yanjasho/constructor_word_guess#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inquirer": "^6.4.1"
+    "inquirer": "^12.9.6"
   }
 }
